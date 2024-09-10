@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "isFav": true,
+        "id": 1
+    },
+    {
+        "title": "The Godfather",
+        "isFav": false,
+        "id": 2
+    },
+    {
+        "title": "The Dark Knight",
+        "isFav": true,
+        "id": 3
+    },
+    {   
+        "title": "The Godfather: Part II",
+        "isFav": false,
+        "id": 4
+    }
+]
